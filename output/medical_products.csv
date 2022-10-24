@@ -1,4 +1,4 @@
-hs6_2007,hs6_2017,group,description,old
+hs3,hs5,group,description,old
 300220,300220,A1,Vaccines for human medicine,FALSE
 300410,300410,A1,"Medicaments containing penicillins or derivatives thereof with a penicillanic acid structure, or streptomycins or derivatives thereof, put up in measured doses ""incl. those in the form of transdermal administration"" or in forms or packings for retail sale",FALSE
 300420,300420,A1,"Medicaments containing antibiotics, put up in measured doses ""incl. those in the form of transdermal administration"" or in forms or packings for retail sale (excl. medicaments containing penicillins or derivatives thereof with a penicillanic structure, or streptomycines or derivatives thereof)",FALSE
@@ -84,7 +84,7 @@ hs6_2007,hs6_2017,group,description,old
 290619,290619,B,"Cyclanic, cyclenic or cycloterpenic alcohols and their halogenated, sulphonated, nitrated or nitrosated derivatives (excl. menthol, cyclohexanol, methylcyclohexanols, dimethylcyclohexanols, sterols and inositols)",FALSE
 290629,290629,B,"Aromatic cyclic alcohols and their halogenated, sulphonated, nitrated or nitrosated derivatives (excl. benzyl alcohol)",FALSE
 290729,290729,B,"Polyphenols and phenol-alcohols (excl. resorcinol and hydroquinone ""quinol"" and their salts, and 4,4''-isopropylidenediphenol ""bisphenol A, diphenylolpropane"" and its salts)",FALSE
-290919,290919,B,"Acyclic ethers and their halogenated, sulphonated, nitrated or nitrosated derivatives (excl.",FALSE
+290919,290919,B,"Acyclic ethers and their halogenated, sulphonated, nitrated or nitrosated derivatives (excl. diethyl ether)",FALSE
 290930,290930,B,"Aromatic ethers and their halogenated, sulphonated, nitrated or nitrosated derivatives",FALSE
 290949,290949,B,"Ether-alcohols and their halogenated, sulphonated, nitrated or nitrosated derivatives (excl. 2,2''-Oxydiethanol ""diethylene glycol, digol"" and monoalkylethers of ethylene glycol or of diethylene glycol)",FALSE
 290950,290950,B,"Ether-phenols, ether-alcohol-phenols and their halogenated, sulphonated, nitrated or nitrosated derivatives",FALSE
@@ -138,12 +138,12 @@ hs6_2007,hs6_2017,group,description,old
 293311,293311,B,"Phenazone ""antipyrin"" and its derivatives",FALSE
 293321,293321,B,Hydantoin and its derivatives,FALSE
 293329,293329,B,"Heterocyclic compounds with nitrogen hetero-atom[s] only, containing an unfused imidazole ring, whether or not hydrogenated, in the structure (excl. hydantoin and its derivatives)",FALSE
-293359,293359,B,"Heterocyclic compounds with nitrogen hetero-atom[s] only, containing a pyrimidine ring, whether or not hydrogenated, or piperazine ring in the structure (excl. malonylurea",FALSE
+293359,293359,B,"Heterocyclic compounds with nitrogen hetero-atom[s] only, containing a pyrimidine ring, whether or not hydrogenated, or piperazine ring in the structure (excl. malonylurea ""barbituric acid"" and its derivatives, allobarbital ""INN"", amobarbital ""INN"", barbital ""INN"", butalbital ""INN"", butobarbital ""INN"", cyclobarbital ""INN"", methylphenobarbital ""INN"", pentobarbital ""INN"", phenobarbital ""INN"", secbutabarbital ""INN"", secobarbital ""INN"", vinylbital ""INN"", loprazolam ""INN"", mecloqualone ""INN"", methaqualone ""INN"" and zipeprol ""INN"", and salts thereof)",FALSE
 293369,293369,B,"Heterocyclic compounds with nitrogen hetero-atom[s] only, containing an unfused triazine ring, whether or not hydrogenated, in the structure (excl. melamine)",FALSE
 293810,293810,B,"Rutoside ""rutin"" and its derivatives",FALSE
 294000,294000,B,"Sugars, chemically pure (excl. sucrose, lactose, maltose, glucose and fructose); sugar ethers, sugar acetals and sugar esters, and their salts (excl. natural or reproduced by synthesis, provitamins, vitamins, hormones, glycosides, vegetable alkaloids and their salts, ethers, esters and other derivatives)",FALSE
 294200,294200,B,"Separate chemically defined organic compounds, n.e.s.",FALSE
-320300,320300,B,"Colouring matter of vegetable or animal origin, incl. dye extracts (excl. animal black), whether or not chemically defined; preparations based on colouring matter of vegetable or animal origin of a kind used to dye fabrics or produce colorant preparations (excl.",FALSE
+320300,320300,B,"Colouring matter of vegetable or animal origin, incl. dye extracts (excl. animal black), whether or not chemically defined; preparations based on colouring matter of vegetable or animal origin of a kind used to dye fabrics or produce colorant preparations (excl. preparations of heading 3207, 3208, 3209, 3210, 3213 and 3215)",FALSE
 320419,320419,B,"Synthetic organic colouring matter (excl. disperse dyes, acid dyes, mordant dyes, basic dyes, direct dyes, vat dyes and reactive dyes and organic pigments); preparations of the kind used for colouring any materials or for the production of prepared colours, based thereon (excl. preparations in heading 3207, 3208, 3209, 3210, 3212, 3213 and 3215); mixtures of colouring matter in subheading 3204.11 to 3204.19",FALSE
 293890,293890,C1,"Glycosides, natural or reproduced by synthesis, and their salts, ethers, esters and other derivatives (excl. rutoside ""rutin"" and its derivatives)",FALSE
 300110,NA,C1,"Dried glands and other organs for organo-therapeutic uses, whether or not powdered",TRUE
@@ -175,7 +175,7 @@ hs6_2007,hs6_2017,group,description,old
 901839,901839,C1,"Needles, catheters, cannulae and the like, used in medical, surgical, dental or veterinary sciences (excl. syringes, tubular metal needles and needles for sutures)",FALSE
 841920,841920,C2,"Medical, surgical or laboratory sterilizers",FALSE
 871310,871310,C2,"Carriages for disabled persons, not mechanically propelled",FALSE
-871390,871390,C2,"Carriages for disabled persons, motorised or otherwise mechanically propelled (excl.",FALSE
+871390,871390,C2,"Carriages for disabled persons, motorised or otherwise mechanically propelled (excl. specially designed motor vehicles and bicycles)",FALSE
 900630,900630,C2,"Cameras specially designed for underwater use, for aerial survey or for medical or surgical examination of internal organs; comparison cameras for forensic or criminological laboratories",FALSE
 901811,901811,C2,Electro-cardiographs,FALSE
 901812,901812,C2,Ultrasonic scanning apparatus,FALSE
