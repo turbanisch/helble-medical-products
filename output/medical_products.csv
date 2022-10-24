@@ -1,0 +1,208 @@
+hs6_2007,hs6_2017,group,description,old
+300220,300220,A1,Vaccines for human medicine,FALSE
+300410,300410,A1,"Medicaments containing penicillins or derivatives thereof with a penicillanic acid structure, or streptomycins or derivatives thereof, put up in measured doses ""incl. those in the form of transdermal administration"" or in forms or packings for retail sale",FALSE
+300420,300420,A1,"Medicaments containing antibiotics, put up in measured doses ""incl. those in the form of transdermal administration"" or in forms or packings for retail sale (excl. medicaments containing penicillins or derivatives thereof with a penicillanic structure, or streptomycines or derivatives thereof)",FALSE
+300431,300431,A1,"Medicaments containing insulin but not antibiotics, put up in measured doses ""incl. those in the form of transdermal administration"" or in forms or packings for retail sale",FALSE
+300432,300432,A1,"Medicaments containing corticosteroid hormones, their derivatives or structural analogues but not antibiotics, put up in measured doses ""incl. those in the form of transdermal administration"" or in forms or packings for retail sale",FALSE
+300439,300439,A1,"Medicaments containing hormones or steroids used as hormones but not antibiotics, put up in measured doses ""incl. those in the form of transdermal administration"" or in forms or packings for retail sale (excl. medicaments containing insulin or corticosteroid hormones, their derivatives or structural analogues)",FALSE
+300440,300441,A1,"Medicaments containing alkaloids or derivatives thereof, not containing hormones, steroids used as hormones or antibiotics, put up in measured doses ""incl. those in the form of transdermal administration"" or in forms or packings for retail sale",FALSE
+300450,300450,A1,"Medicaments containing provitamins, vitamins, incl. natural concentrates and derivatives thereof used primarily as vitamins, put up in measured doses ""incl. those in the form of transdermal administration"" or in forms or packings for retail sale",FALSE
+300490,300460,A1,"Medicaments consisting of mixed or unmixed products for therapeutic or prophylactic purposes, put up in measured doses ""incl. those in the form of transdermal administration"" or in forms or packings for retail sale (excl. medicaments containing antibiotics, medicaments containing hormones or steroids used as hormones, but not containing antibiotics, medicaments containing alkaloids or derivatives thereof but not containing hormones or antibiotics and medicaments containing  provitamins, vitamins or derivatives thereof used as vitamins)",FALSE
+300310,300310,A2,"Medicaments containing penicillins or derivatives thereof with a penicillanic acid structure, or streptomycins or derivatives thereof, not in measured doses or put up for retail sale",FALSE
+300320,300320,A2,"Medicaments containing antibiotics, not in measured doses or put up for retail sale (excl. medicaments containing penicillins or derivatives thereof with a penicillanic acid structure, or streptomycins or derivatives thereof)",FALSE
+300331,300331,A2,"Medicaments containing insulin, not in measured doses or put up for retail sale",FALSE
+300339,300339,A2,"Medicaments containing hormones or steroids used as hormones, not containing antibiotics, not in measured doses or put up for retail sale (excl. those containing insulin)",FALSE
+300340,300341,A2,"Medicaments containing alkaloids or derivatives thereof, not containing hormones, steroids used as hormones or antibiotics, not in measured doses or put up for retail sale",FALSE
+300390,300360,A2,"Medicaments consisting of two or more constituents mixed together for therapeutic or prophylactic uses, not in measured doses or put up for retail sale (excl. antibiotics containing hormones or steroids used as hormones, but not containing antibiotics, alkaloids or derivatives thereof, hormones or antibiotics, or goods of heading 3002, 3005 or 3006)",FALSE
+300660,300660,A2,"Chemical contraceptive preparations based on hormones, prostaglandins, thromboxanes, leukotrienes, derivatives and structural analogues thereof or on spermicides",FALSE
+293610,NA,A3,"Provitamins, unmixed",TRUE
+293621,293621,A3,"Vitamins A and their derivatives, used primarily as vitamins",FALSE
+293622,293622,A3,"Vitamin B1 and its derivatives, used primarily as vitamins",FALSE
+293623,293623,A3,"Vitamin B2 and its derivatives, used primarily as vitamins",FALSE
+293624,293624,A3,"D-Pantothenic or DL-pantothenic acid ""Vitamin B3 or B5"" and their derivatives, used primarily as vitamins",FALSE
+293625,293625,A3,"Vitamin B6 and its derivatives, used primarily as vitamins",FALSE
+293626,293626,A3,"Vitamin B12 and its derivatives, used primarily as vitamins",FALSE
+293627,293627,A3,"Vitamin C and its derivatives, used primarily as vitamins",FALSE
+293628,293628,A3,"Vitamin E and its derivatives, used primarily as vitamins",FALSE
+293629,293629,A3,"Vitamins and their derivatives, used primarily as vitamins, unmixed (excl. vitamins A, B1, B2, B3, B5, B6, B12, C, E and their derivatives)",FALSE
+293690,293690,A3,"Provitamins and mixtures of vitamins, of provitamins or of concentrates, whether or not in any solvent, and natural concentrates",FALSE
+293710,NA,A3,"Pituitary ""anterior"" or similar hormones, and derivatives, used primarily as hormones",TRUE
+293711,293711,A3,"Somatropin, its derivatives and structural analogues, used primarily as hormones",FALSE
+293712,293712,A3,"Insulin and its salts, used primarily as hormones",FALSE
+293719,293719,A3,"Polypeptide hormones, protein hormones and glycoprotein hormones, their derivatives and structural analogues, used primarily as hormones (excl. somatropin, its derivatives and structural analogues, and insulin and its salts)",FALSE
+293721,293721,A3,"Cortisone,  hydrocortisone,  prednisone  ""dehydrocortisone""  and  prednisolone ""dehydrohydrocortisone""",FALSE
+293722,293722,A3,Halogenated derivatives of corticosteroidal hormones,FALSE
+293723,293723,A3,Oestrogens and progestogens,FALSE
+293729,293729,A3,"Steroidal hormones, their derivatives and structural analogues, used primarily as hormones (excl. cortisone, hydrocortisone, prednisone ""dehydrocortisone"", prednisolone ""dehydrohydrocortisone"", halogenated derivatives of corticosteroidal hormones, oestrogens and progestogens)",FALSE
+293731,NA,A3,Epinephrine,FALSE
+293739,NA,A3,"Catecholamine hormones, their derivatives and structural analogues, used primarily as hormones (excl. epinephrine)",FALSE
+293740,NA,A3,"Amino-acid derivatives, used primarily as hormones",FALSE
+293750,293750,A3,"Prostaglandins, thromboxanes and leukotrienes, their derivatives and structural analogues, used primarily as hormones",FALSE
+293790,293790,A3,"Hormones, natural or reproduced by synthesis; derivatives and structural analogues thereof, used primarily as hormones (excl. polypeptide hormones, protein hormones, glycoprotein hormones, steroidal hormones, catecholamine hormones, prostaglandins, thromboxanes and leukotrienes, their derivatives and structural analogues, and aminoacid derivatives)",FALSE
+293791,NA,A3,Insulin and its salts,TRUE
+293792,NA,A3,Oestrogens and progestogens,TRUE
+293799,NA,A3,"Hormones and their derivatives used primarily as hormones (excl. pituitary ""anterior"" or similar hormones and their derivatives, adrenal cortical hormones and their derivatives, insulin and its salts, oestrogens and progestogens)",TRUE
+293910,NA,A3,Alkaloids of opium and their derivatives; salts thereof,TRUE
+293911,293911,A3,"Concentrates of poppy straw; buprenorphine ""INN"", codeine, dihydrocodeine ""INN"", ethylmorphine, etorphine ""INN"", heroin, hydrocodone ""INN"", hydromorphone ""INN"", morphine, nicomorphine ""INN"", oxycodone ""INN"", oxymorphone ""INN"", pholcodine ""INN"", thebacon ""INN"" and thebaine, and salts thereof",FALSE
+293919,293919,A3,"Alkaloids of opium and their derivatives, and salts thereof (excl. concentrates of poppy straw; buprenorphine ""INN"", codeine, dihydrocodeine ""INN"", ethylmorphine, etorphine ""INN"", heroin, hydrocodone ""INN"", hydromorphone ""INN"", morphine, nicomorphine ""INN"", oxycodone ""INN"", oxymorphone ""INN"", pholcodine ""INN"", thebacon ""INN"" and thebaine, and salts thereof)",FALSE
+293920,293920,A3,Alkaloids of cinchona and their derivatives; salts thereof,FALSE
+293921,NA,A3,Quinine and its salts,TRUE
+293929,NA,A3,Alkaloids of cinchons and their derivatives; salts thereof (excl. quinine and its salts),TRUE
+293930,293930,A3,Caffeine and its salts,FALSE
+293940,NA,A3,Ephedrines and their salts,TRUE
+293941,293941,A3,Ephedrine and its salts,FALSE
+293942,293942,A3,"Pseudoephedrine ""INN"" and its salts",FALSE
+293943,293943,A3,"Cathine ""INN"" and its salts",FALSE
+293949,293944,A3,"Ephedrines and their salts (excl. ephedrine, pseudoephedrine ""INN"", cathine ""INN"", and salts thereof)",FALSE
+293950,NA,A3,"Theophylline and aminophylline ""theophylline-ethylenediamine"" and their derivatives; salts thereof",TRUE
+293951,293951,A3,"Fenetylline ""INN"" and its salts",FALSE
+293959,293959,A3,"Theophylline and aminophylline ""theophylline-ethylenediamine"" and their derivatives, and salts thereof (excl. fenetylline ""INN"" and its salts)",FALSE
+293960,NA,A3,Alkaloids of rye ergot and their derivatives; salts thereof,TRUE
+293961,293961,A3,"Ergometrine ""INN"" and its salts",FALSE
+293962,293962,A3,"Ergotamine ""INN"" and its salts",FALSE
+293963,293963,A3,Lysergic acid and its salts,FALSE
+293969,293969,A3,"Alkaloids of rye ergot and their derivatives; salts thereof (excl. lysergic acid, ergotamine and ergometrine, and their salts)",FALSE
+293970,NA,A3,Nicotine and its salts,TRUE
+293990,NA,A3,"Vegetable alkaloids, natural or reproduced by synthesis, and their salts, ethers, esters and other derivatives (excl. alkaloids of opium, alkaloids of cinchons, theophylline, aminophylline ""theophylline-ethylenediamine"" alkaloids of rye ergot and their sa",TRUE
+293991,293971,A3,"Cocaine, ecgonine, levometamfetamine, metamfetamine ""INN"", metamfetamine racemate, and salts, esters and other derivatives thereof",FALSE
+293999,293979,A3,"Vegetable alkaloids, natural or reproduced by synthesis, and their salts, ethers, esters and other derivatives (excl. alkaloids of opium, alkaloids of cinchons, theophylline, aminophylline ""theophylline-ethylenediamine"" alkaloids of rye ergot and their salts and derivatives, cocaine, ecgonine, levometamfetamine, metamfetamine ""INN"", metamfetamine racemate, and salts, esters and other derivatives thereof caffeine and ephedrines, and their salts)",FALSE
+294110,294110,A3,Penicillins and their derivatives with a penicillanic acid structure; salts thereof,FALSE
+294120,294120,A3,Streptomycins and their derivatives; salts thereof,FALSE
+294130,294130,A3,Tetracyclines and their derivatives; salts thereof,FALSE
+294140,294140,A3,Chloramphenicol and its derivatives; salts thereof,FALSE
+294150,294150,A3,Erythromycin and its derivatives; salts thereof,FALSE
+294190,294190,A3,"Antibiotics (excl. penicillins and their derivatives with a penicillanic acid structure, salts thereof, streptomycins, tetracyclines, chloramphenicol and erythromycin, their derivatives and salts thereof)",FALSE
+284210,284210,B,"Double or complex silicates of inorganic acids or peroxoacids, incl. aluminosilicates whether or not chemically defined (excl. inorganic or organic compounds of mercury)",FALSE
+284290,284290,B,"Salts of inorganic acids or peroxoacids (excl. of oxometallic or peroxometallic acids, double or complex silicates [incl. aluminosilicates whether or not chemically defined], azides, and inorganic or organic compounds of mercury)",FALSE
+290290,290290,B,"Cyclic hydrocarbons (excl. cyclanes, cyclenes, benzene, toluene, xylenes, styrene, ethylbenzene and cumene)",FALSE
+290349,290371,B,Halogenated derivatives of acyclic hydrocarbons with two or more different halogens (excl. perhalogenated derivatives),FALSE
+290369,290393,B,"Halogenated derivatives of aromatic hydrocarbons (excl. chlorobenzene, odichlorobenzene and p-dichlorobenzene, hexachlorobenzene [ISO] and DDT [ISO] [clofenotane [INN], ""1,1,1-trichloro-2,2-bis[p-chlorophenyl]ethane"")",FALSE
+290410,290410,B,"Derivatives of hydrocarbons containing only sulpho groups, their salts and ethyl esters",FALSE
+290490,290431,B,"Sulphonated, nitrated or nitrosated derivatives of hydrocarbons, whether or not halogenated (excl. those containing only sulpho, nitro or nitroso groups)",FALSE
+290522,290522,B,Acyclic terpene alcohols,FALSE
+290529,290529,B,Unsaturated monohydric acyclic alcohols (excl. acyclic terpene alcohols),FALSE
+290619,290619,B,"Cyclanic, cyclenic or cycloterpenic alcohols and their halogenated, sulphonated, nitrated or nitrosated derivatives (excl. menthol, cyclohexanol, methylcyclohexanols, dimethylcyclohexanols, sterols and inositols)",FALSE
+290629,290629,B,"Aromatic cyclic alcohols and their halogenated, sulphonated, nitrated or nitrosated derivatives (excl. benzyl alcohol)",FALSE
+290729,290729,B,"Polyphenols and phenol-alcohols (excl. resorcinol and hydroquinone ""quinol"" and their salts, and 4,4''-isopropylidenediphenol ""bisphenol A, diphenylolpropane"" and its salts)",FALSE
+290919,290919,B,"Acyclic ethers and their halogenated, sulphonated, nitrated or nitrosated derivatives (excl.",FALSE
+290930,290930,B,"Aromatic ethers and their halogenated, sulphonated, nitrated or nitrosated derivatives",FALSE
+290949,290949,B,"Ether-alcohols and their halogenated, sulphonated, nitrated or nitrosated derivatives (excl. 2,2''-Oxydiethanol ""diethylene glycol, digol"" and monoalkylethers of ethylene glycol or of diethylene glycol)",FALSE
+290950,290950,B,"Ether-phenols, ether-alcohol-phenols and their halogenated, sulphonated, nitrated or nitrosated derivatives",FALSE
+291229,291229,B,"Cyclic aldehydes, without other oxygen function (excl. benzaldehyde)",FALSE
+291249,291249,B,"Aldehyde-ethers, aldehyde-phenols and aldehydes with other oxygen function (excl. ethylvanillin ""3-ethoxy-4-hydroxybenzaldehyde"" and vanillin ""4-hydroxy-3methoxybenzaldehyde"")",FALSE
+291419,291419,B,"Acyclic ketones, without other oxygen function (excl. acetone, butanone ""methyl ethyl ketone"" and 4-Methylpentan-2-one ""Methyl isobutyl ketone"")",FALSE
+291440,291440,B,Ketone-alcohols and ketone-aldehydes,FALSE
+291469,291462,B,Quinones (excl. anthraquinone),FALSE
+291539,291539,B,"Esters of acetic acid (excl. ethyl, vinyl, n-butyl and dinoseb [ISO] acetates)",FALSE
+291550,291550,B,"Propionic acid, its salts and esters",FALSE
+291590,291590,B,"Saturated acyclic monocarboxylic acids, their anhydrides, halides, peroxides and peroxyacids; their halogenated, sulphonated, nitrated or nitrosated derivatives (excl. formic acid and acetic acid, mono-, di- or trichloroacetic acids, proprionic acid, butanoic and pentanoic acids, palmitic and stearic acids, their salts and esters, and acetic anhydride)",FALSE
+291619,291619,B,"Unsaturated acyclic monocarboxylic acids, their anhydrides, halides, peroxides, peroxyacids and halogenated, sulphonated, nitrated or nitrosated derivatives (excl. acrylic acid and its salts and esters, methacrylic acid and its salts and esters, and oleic, linoleic or linolenic acids, their salts and esters)",FALSE
+291620,291620,B,"Cyclanic, cyclenic or cycloterpenic monocarboxylic acids, their anhydrides, halides, peroxides, peroxyacids and their halogenated, sulphonated, nitrated or nitrosated derivatives (excl. inorganic or organic compounds of mercury)",FALSE
+291639,291639,B,"Aromatic monocarboxylic acids, their anhydrides, halides, peroxides, peroxyacids and their halogenated, sulphonated, nitrated or nitrosated derivatives (excl. benzoic acid, its salts and esters, benzoyl peroxide, benzoyl chloride, binapacryl [ISO], phenylacetic acid, its salts and esters, and  inorganic or organic compounds of mercury)",FALSE
+291713,291713,B,"Azelaic acid, sebacic acid, their salts and esters",FALSE
+291719,291719,B,"Acyclic polycarboxylic acids, their anhydrides, halides, peroxides, peroxyacids and their halogenated, sulphonated, nitrated or nitrosated derivatives (excl. oxalic acid, its salts and esters, adipic acid, its salts and esters, azelaic acid, sebacic acid, their salts and esters, maleic anhydride, and inorganic or organic compounds of mercury)",FALSE
+291734,291734,B,"Esters of orthophthalic acid (excl. dioctyl, dinonyl or didecyl orthophthalates)",FALSE
+291739,291739,B,"Aromatic polycarboxylic acids, their anhydrides, halides, peroxides, peroxyacids and their halogenated, sulphonated, nitrated or nitrosated derivatives (excl. esters of orthophthalic acid, phthalic anhydride, terephthalic acid and its salts and dimethyl terephthalate)",FALSE
+291811,291811,B,"Lactic acid, its salts and esters (excl. inorganic or organic compounds of mercury)",FALSE
+291813,291813,B,Salts and esters of tartaric acid,FALSE
+291816,291816,B,"Gluconic acid, its salts and esters",FALSE
+291819,291817,B,"Carboxylic acids with additional oxygen function and their anhydrides, halides, peroxides and peroxyacids; their halogenated, sulphonated, nitrated or nitrosated derivatives (excl. lactic acid, tartaric acid, citric acid, gluconic acid and their salts and esters, and chlorobenzilate [ISO])",FALSE
+291822,291822,B,"o-Acetylsalicylic acid, its salts and esters",FALSE
+291823,291823,B,"Esters of salicylic acid and their salts (excl. o-acetylsalicylic acid, its salts and esters)",FALSE
+291829,291829,B,"Carboxylic acids with phenol function but without other oxygen function, their anhydrides, halides, peroxides, peroxyacids and their halogenated, sulphonated, nitrated or nitrosated derivatives (excl. salicylic acid and o-Acetylsalicylic acid, and their salts and esters)",FALSE
+291830,291830,B,"Carboxylic acids with aldehyde or ketone function but without other oxygen function, their anhydrides, halides, peroxides, peroxyacids and their halogenated, sulphonated, nitrated or nitrosated derivatives",FALSE
+292090,292021,B,"Esters of other inorganic acids of non-metals and their salts; their halogenated, sulphonated, nitrated or nitrosated derivatives (excl. esters of hydrogen halides, and thiophosphoric esters ""phosphorothioates"", their salts and their halogenated, sulphonated, nitrated or nitrosated derivatives, and inorganic or organic compounds of mercury))",FALSE
+292119,292112,B,"Acyclic monoamines and their derivatives; salts thereof (excl. methylamine, dimethylamine, trimethylamine, and their salts)",FALSE
+292129,292129,B,"Acyclic polyamines and their derivatives; salts thereof (excl. ethylenediamine and hexamethylenediamine, and their salts)",FALSE
+292130,292130,B,"Cyclanic, cyclenic or cycloterpenic mono- or polyamines, and their derivatives; salts thereof",FALSE
+292142,292142,B,Aniline derivatives and their salts,FALSE
+292149,292149,B,"Aromatic monoamines and derivatives; salts thereof (excl. aniline, toluidines, diphenylamine, 1-naphthylamine ""alpha-naphthylamine"", 2-naphthylamine ""betanaphthylamine"" and their derivatives, and salts thereof, and amfetamine ""INN"", benzfetamine ""INN"", dexamfetamine ""INN"", etilamfetamine ""INN"", fencamfamine ""INN"", lefetamine ""INN"", levamfetamine ""INN"", mefenorex ""INN"" and phentermine ""INN"", and salts thereof)",FALSE
+292159,292159,B,"Aromatic polyamines and their derivatives; salts thereof (excl. o-phenylenediamine, mphenylenediamine, p-phenylenediamine or diaminotoluenes and their derivatives, and salts thereof)",FALSE
+292211,292211,B,Monoethanolamine and its salts,FALSE
+292219,292216,B,"Amino-alcohols, their ethers and esters; salts thereof (other than those containing > one kind of oxygen function and excl. monoethanolamine, diethanolamine, triethanolamine, dextropropoxyphene ""INN"", and salts thereof)",FALSE
+292229,292229,B,"Amino-naphthols and other amino-phenols, their ethers and esters; salts thereof (excl. those containing > one kind of oxygen function; aminohydroxynaphthalenesulphonic acids and their salts)",FALSE
+292241,292241,B,Lysine and its esters; salts thereof,FALSE
+292249,292249,B,"Amino-acids and their esters; salts thereof (excl. those with > one kind of oxygen function, lysine and its esters, and salts thereof, and glutamic acid, anthranilic acid, tilidine ""INN"", and salts thereof)",FALSE
+292250,292250,B,"Amino-alcohol-phenols, amino-acid-phenols and other amino-compounds with oxygen function (excl. amino-alcohols, amino-naphthols and other amino-phenols, their ethers and esters and salts thereof, amino-aldehydes, amino-ketones and amino-quinones, and salts thereof, amino-acids and their esters and salts thereof)",FALSE
+292310,292310,B,Choline and its salts,FALSE
+292390,292330,B,Quaternary ammonium salts and hydroxides (excl. choline and its salts),FALSE
+292429,292425,B,"Cyclic amides, incl. cyclic carbamates, and their derivatives; salts thereof (excl. ureines and their derivatives, salts thereof, 2-acetamidobenzoic acid ""N-acetylanthranilic acid"" and its salts and ethinamate ""INN"")",FALSE
+292519,292519,B,"Imides and their derivatives; salts thereof (excl. saccharin and its salts, glutethimide [INN] and inorganic or organic compounds of mercury)",FALSE
+292690,292640,B,"Nitrile-function compounds (excl. acrylonitrile, 1-cyanoguanidine ""dicyandiamide"", fenproporex ""INN"" and its salts, and methadone ""INN""-intermediate ""4-cyano-2dimethylamino-4,4-diphenylbutane"")",FALSE
+292700,292700,B,"Diazo-, azo- or azoxy-compounds",FALSE
+292800,292800,B,Organic derivatives of hydrazine or of hydroxylamine,FALSE
+292990,292990,B,"Compounds with nitrogen function (excl. amine-function compounds; oxygen-function amino-compounds; quaternary ammonium salts and hydroxides; lecithin and other phosphoaminolipids; carboxyamide-function compounds; amide-function compounds of carbonic acid; carboxyimide-function, imine-function or nitrile-function compounds; diazo-, azo- or azoxy-compounds; organic derivatives of hydrazine or of hydroxylamine and isocyanates)",FALSE
+293090,293060,B,"Organo-sulphur compounds (excl. thiocarbamates and dithiocarbamates, thiuram mono-, di- or tetrasulphides, methionine, captafol [ISO] and methamidophos [ISO])",FALSE
+293100,293110,B,Separate chemically defined organo-inorganic compounds (excl. organo-sulphur compounds and those of mercury),FALSE
+293299,293299,B,"Heterocyclic compounds with oxygen hetero-atom[s] only (excl. compounds containing unfused furan ring, whether or not hydrogenated, in the structure, and lactones, isosafrole, 1-[1,3-benzodioxol-5-yl]propan-2-one, piperonal, safrole, tetrahydrocannabinols ""all isomers"", and inorganic or organic compounds of mercury)",FALSE
+293311,293311,B,"Phenazone ""antipyrin"" and its derivatives",FALSE
+293321,293321,B,Hydantoin and its derivatives,FALSE
+293329,293329,B,"Heterocyclic compounds with nitrogen hetero-atom[s] only, containing an unfused imidazole ring, whether or not hydrogenated, in the structure (excl. hydantoin and its derivatives)",FALSE
+293359,293359,B,"Heterocyclic compounds with nitrogen hetero-atom[s] only, containing a pyrimidine ring, whether or not hydrogenated, or piperazine ring in the structure (excl. malonylurea",FALSE
+293369,293369,B,"Heterocyclic compounds with nitrogen hetero-atom[s] only, containing an unfused triazine ring, whether or not hydrogenated, in the structure (excl. melamine)",FALSE
+293810,293810,B,"Rutoside ""rutin"" and its derivatives",FALSE
+294000,294000,B,"Sugars, chemically pure (excl. sucrose, lactose, maltose, glucose and fructose); sugar ethers, sugar acetals and sugar esters, and their salts (excl. natural or reproduced by synthesis, provitamins, vitamins, hormones, glycosides, vegetable alkaloids and their salts, ethers, esters and other derivatives)",FALSE
+294200,294200,B,"Separate chemically defined organic compounds, n.e.s.",FALSE
+320300,320300,B,"Colouring matter of vegetable or animal origin, incl. dye extracts (excl. animal black), whether or not chemically defined; preparations based on colouring matter of vegetable or animal origin of a kind used to dye fabrics or produce colorant preparations (excl.",FALSE
+320419,320419,B,"Synthetic organic colouring matter (excl. disperse dyes, acid dyes, mordant dyes, basic dyes, direct dyes, vat dyes and reactive dyes and organic pigments); preparations of the kind used for colouring any materials or for the production of prepared colours, based thereon (excl. preparations in heading 3207, 3208, 3209, 3210, 3212, 3213 and 3215); mixtures of colouring matter in subheading 3204.11 to 3204.19",FALSE
+293890,293890,C1,"Glycosides, natural or reproduced by synthesis, and their salts, ethers, esters and other derivatives (excl. rutoside ""rutin"" and its derivatives)",FALSE
+300110,NA,C1,"Dried glands and other organs for organo-therapeutic uses, whether or not powdered",TRUE
+300120,300120,C1,"Extracts of glands or other organs or of their secretions, for organo-therapeutic uses",FALSE
+300190,300190,C1,"Dried glands and other organs for organo-therapeutic uses, whether or not powdered; heparin and its salts; other human or animal substances prepared for therapeutic or prophylactic uses, n.e.s.",FALSE
+300210,NA,C1,"Antisera and other blood fractions and modified immunological products, whether or not obtained by means of biotechnological processes",FALSE
+300290,300211,C1,"Human blood; animal blood prepared for therapeutic, prophylactic or diagnostic uses; toxins, cultures of micro-organisms and similar products (excl. yeasts and vaccines)",FALSE
+300510,300510,C1,"Adhesive dressings and other articles having an adhesive layer, impregnated or covered with pharmaceutical substances or put up for retail sale for medical, surgical, dental or veterinary purposes",FALSE
+300590,300590,C1,"Wadding, gauze, bandages and the like, e.g. dressings, adhesive plasters, poultices, impregnated or covered with pharmaceutical substances or put up for retail sale for medical, surgical, dental or veterinary purposes (excl. adhesive dressings and other articles having an adhesive layer)",FALSE
+300610,300610,C1,"Sterile surgical catgut, similar sterile suture materials, incl. sterile absorbable surgical or dental yarns, and sterile tissue adhesives for surgical wound closure; sterile laminaria and sterile laminaria tents; sterile absorbable surgical or dental haemostatics; sterile surgical or dental adhesion barriers, whether or not absorbable",FALSE
+300620,300620,C1,Reagents for determining blood groups or blood factors,FALSE
+300630,300630,C1,Opacifying preparations for x-ray examinations; diagnostic reagents for administration to patients,FALSE
+300640,300640,C1,Dental cements and other dental fillings; bone reconstruction cements,FALSE
+300650,300650,C1,First-aid boxes and kits,FALSE
+300670,300670,C1,Gel preparations designed to be used  in human or veterinary medicine as a lubricant for parts of the body for surgical operations or physical examinations or as a coupling agent between the body and medical instruments,FALSE
+300680,NA,C1,Waste pharmaceuticals,TRUE
+300691,300691,C1,Appliances identifiable for ostomy use,FALSE
+300692,300692,C1,Waste pharmaceuticals,FALSE
+350790,350790,C1,"Enzymes and prepared enzymes, n.e.s. (excl. rennet and concentrates thereof)",FALSE
+382200,382200,C1,"Diagnostic or laboratory reagents on a backing, prepared diagnostic or laboratory reagents whether or not on a backing, and certified reference materials (excl. compound diagnostic reagents designed to be administered to the patient, blood-grouping reagents, animal blood prepared for therapeutic, prophylactic or diagnostic uses and vaccines, toxins, cultures of micro-organisms and similar products)",FALSE
+382490,285290,C1,"Chemical products and preparations of the chemical or allied industries, incl. those consisting of mixtures of natural products, n.e.s.",FALSE
+401490,401490,C1,"Hygienic or pharmaceutical articles, incl. teats, of vulcanised rubber (excl. hard rubber), with or without fittings of hard rubber, n.e.s. (excl. sheath contraceptives and articles of apparel and clothing accessories, incl. gloves, for all purposes)",FALSE
+401511,401511,C1,"Surgical gloves, of vulcanised rubber (excl. fingerstalls)",FALSE
+701710,701710,C1,"Laboratory, hygienic or pharmaceutical glassware, whether or not graduated or calibrated, of fused quartz or other fused silica (excl. containers for the conveyance or packing of goods, measuring, checking or medical instruments and apparatus of chapter 90)",FALSE
+701720,701720,C1,"Laboratory, hygienic or pharmaceutical glassware, whether or not graduated or calibrated, having a linear coefficient of expansion <= 5 x 10 -6 per kelvin within a temperature range of 0°C to 300°C (excl. glass of fused quartz or other fused silica, containers for the conveyance or packing of goods, measuring, checking or medical instruments and apparatus of chapter 90)",FALSE
+701790,701790,C1,"Laboratory, hygienic or pharmaceutical glassware, whether or not graduated or calibrated (excl. glass having a linear coefficient of expansion <= 5 x 10 -6 per kelvin within a temperature range of 0°C to 300°C or of fused quartz or other fused silica, containers for the conveyance or packing of goods, measuring, checking or medical instruments and apparatus of chapter 90)",FALSE
+901831,901831,C1,"Syringes, with or without needles, used in medical, surgical, dental or veterinary sciences",FALSE
+901832,901832,C1,"Tubular metal needles and needles for sutures, used in medical, surgical, dental or veterinary sciences",FALSE
+901839,901839,C1,"Needles, catheters, cannulae and the like, used in medical, surgical, dental or veterinary sciences (excl. syringes, tubular metal needles and needles for sutures)",FALSE
+841920,841920,C2,"Medical, surgical or laboratory sterilizers",FALSE
+871310,871310,C2,"Carriages for disabled persons, not mechanically propelled",FALSE
+871390,871390,C2,"Carriages for disabled persons, motorised or otherwise mechanically propelled (excl.",FALSE
+900630,900630,C2,"Cameras specially designed for underwater use, for aerial survey or for medical or surgical examination of internal organs; comparison cameras for forensic or criminological laboratories",FALSE
+901811,901811,C2,Electro-cardiographs,FALSE
+901812,901812,C2,Ultrasonic scanning apparatus,FALSE
+901813,901813,C2,Magnetic resonance imaging apparatus,FALSE
+901814,901814,C2,Scintigraphic apparatus,FALSE
+901819,901819,C2,"Electro-diagnostic apparatus, incl. apparatus for functional exploratory examination or for checking physiological parameters (excl. electro-cardiographs, ultrasonic scanning apparatus, magnetic resonance imaging apparatus and scintigraphic apparatus)",FALSE
+901820,901820,C2,"Ultraviolet or infra-red ray apparatus used in medical, surgical, dental or veterinary sciences",FALSE
+901841,901841,C2,"Dental drill engines, whether or not combined on a single base with other dental equipment",FALSE
+901849,901849,C2,"Instruments and appliances used in dental sciences, n.e.s.",FALSE
+901850,901850,C2,"Ophthalmic instruments and appliances, n.e.s.",FALSE
+901890,901890,C2,"Instruments and appliances used in medical, surgical or veterinary sciences, n.e.s.",FALSE
+901920,901920,C2,"Ozone therapy, oxygen therapy, aerosol therapy, artificial respiration or other therapeutic respiration apparatus",FALSE
+902110,902110,C2,Orthopaedic or fracture appliances,FALSE
+902111,NA,C2,Artificial joints for orthopaedic purposes,TRUE
+902119,NA,C2,Orthopaedic or fracture appliances (excl. artificial joints),TRUE
+902121,902121,C2,Artificial teeth,FALSE
+902129,902129,C2,Dental fittings (excl. artificial teeth),FALSE
+902130,NA,C2,Artificial parts of the body (excl. artificial teeth),TRUE
+902131,902131,C2,Artificial joints for orthopaedic purposes,FALSE
+902139,902139,C2,Artificial parts of the body (excl. artificial teeth and dental fittings and artificial joints),FALSE
+902140,902140,C2,Hearing aids (excl. parts and accessories),FALSE
+902150,902150,C2,Pacemakers for stimulating heart muscles (excl. parts and accessories),FALSE
+902190,902190,C2,"Articles and appliances, which are worn or carried, or implanted in the body, to compensate for a defect or disability (excl. artificial parts of the body, complete hearing aids and complete pacemakers for stimulating heart muscles)",FALSE
+902211,NA,C2,"For medical, surgical, dental or veterinary uses",TRUE
+902212,902212,C2,Computer tomography apparatus,FALSE
+902213,902213,C2,Apparatus based on the use of X-rays for dental uses,FALSE
+902214,902214,C2,"Apparatus based on the use of X-rays, for medical, surgical or veterinary uses (excl. for dental purposes and computer tomography apparatus)",FALSE
+902221,902221,C2,"Apparatus based on the use of alpha, beta or gamma radiations, for medical, surgical, dental or veterinary uses",FALSE
+940210,940210,C2,"Dentists'', barbers'' or similar chairs having rotating as well as both reclining and elevating movement, and parts thereof, n.e.s.",FALSE
+940290,940290,C2,"Operating tables, examination tables, and other medical, dental, surgical or veterinary furniture (excl. dentists'' or similar chairs, special tables for X-ray examination, and stretchers and litters, incl. trolley-stretchers)",FALSE
