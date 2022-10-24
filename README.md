@@ -10,7 +10,7 @@ This code cleans the list of medical goods from Helble (2012) and converts it in
 4. import Excel table into R and run `clean.R`
     - clean data
     - convert HS3 (2007) to HS5 (2017)
-5. save as `medical_products.csv`
+5. save as `medical_products.csv` in folder `output`
 
 ## Notes
 
