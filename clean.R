@@ -1,10 +1,8 @@
 library(tidyverse)
 library(concordance)
 
-setwd("/Users/felix/Dropbox/China Group Customs/_Aid/data_external/medical_products")
-
 # load data
-df <- readxl::read_excel("list_medical_products.xlsx")
+df <- readxl::read_excel("data/derived/list_medical_products.xlsx")
 
 # rename columns
 df <- df %>% 
